@@ -2,7 +2,7 @@
 
 
 
-This application allow users to explore bikeshare data for 3 US cities(Washington, Chicago, New York City).
+This code allow users to explore bikeshare data for 3 US cities(Washington, Chicago, New York City).
 I used python to manipulate this data and write a code that help user to easily view it.
 
 ### How to install 
